@@ -1,0 +1,8 @@
+applications:
+- disk_quota: 1024M
+  host: lab92pkvk
+  name: lab92pkvk
+  path: Lab92.war
+  domain: mybluemix.net
+  instances: 1
+  memory: 512M
